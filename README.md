@@ -2,7 +2,7 @@
 ## СПм-22-5, **Лобач Яків Вадимович**
 ### Лабораторна робота №**1**. Опис імітаційних моделей та проведення обчислювальних експериментів
 
-### Варіант 10, [Wolf Sheep Predation](https://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Wolf%20Sheep%20Predation.nlogo)
+### Варіант 7, [Wolf Sheep Predation](https://www.netlogoweb.org/launch#http://www.netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Wolf%20Sheep%20Predation.nlogo)
 
 ### Вербальний опис моделі:
 Ця модель досліджує стабільність екосистеми хижак-жертва. Система вважається нестабільною, якщо вона призводить до вимирання одного або кількох видів, і стабільною, якщо вона підтримує чисельність протягом тривалого часу, незважаючи на коливання популяцій.
